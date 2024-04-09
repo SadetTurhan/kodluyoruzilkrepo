@@ -5,6 +5,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ``` 
 git clone https://github.com/sadetturhan/kodluyoruzilkrepo.git 
 ```
+![resim](https://github.com/SadetTurhan/kodluyoruzilkrepo/assets/57369165/4487d2ea-287b-495c-a185-8f30d6b7762c)
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
